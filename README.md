@@ -39,8 +39,8 @@ O objetivo é demonstrar habilidades em:
 ## 📬 Contato
 
 - GitHub: [cleiton407](https://github.com/cleiton407)
-- LinkedIn: [Seu LinkedIn] (coloque o link aqui)
-- E-mail: [seu e-mail] (opcional)
+- LinkedIn: linkedin.com/in/cleitonfelixqa
+- E-mail: cleiton_felix@hotmail.com
 
 ---
 
