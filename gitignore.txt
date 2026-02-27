@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS
+.DS_Store
+*.swp
+*.swo
+.AppleDouble
+.LSOverride
+
+# Trash and system files
+.Trash/
+Thumbs.db
+ehthumbs.db
+
+# VSCode
+.vscode/
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# Environment files
+.env
